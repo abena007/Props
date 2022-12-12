@@ -8,7 +8,6 @@ const Profile = (props) => {
       {props.fullName}<br/>
       {props.prof}<br/>
       {props.bio}<br/>
-      {alert(props.hName) }<br/>
       
     </div>
   )
